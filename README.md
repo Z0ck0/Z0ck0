@@ -12,7 +12,7 @@
 
 💞️ Collaboration: Open to open-source testing projects. Let's work together for high-quality software.
 
-📫 Contact Me: You can reach me via email at zzdimitrievski@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/zoran-dimitrievski/).
+📫 How to reach me... zzdimitrievski@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/zoran-dimitrievski/).
 
 #### 💪 Skills
 - Agile Methodologies
