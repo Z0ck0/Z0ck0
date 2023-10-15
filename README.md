@@ -1,4 +1,4 @@
-👋 Hi, I'm Z0ck0 (Zoran Dimitrievski), a results-driven and highly accomplished software tester and quality assurance professional with over 5 years of experience in the IT industry. I'm passionate about delivering high-quality software through testing and teamwork.
+👋 Hi, I'm Zoran Dimitrievski
 
 👨‍💻 Experience and Expertise
 - Manual testing
