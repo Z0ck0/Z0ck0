@@ -1,6 +1,6 @@
-## Introduction
+### Introduction
 
-### 👋 About Me
+#### 👋 About Me
 Hi, I'm Z0ck0 (Zoran Dimitrievski), a results-driven and highly accomplished software tester and quality assurance professional with over 5 years of experience in the tech industry. I am passionate about delivering high-quality software products through thorough testing and ensuring team success.
 
 ### 👨‍💻 Experience and Expertise
