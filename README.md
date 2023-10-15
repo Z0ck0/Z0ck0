@@ -7,8 +7,11 @@
 - Analytical troubleshooting
 
 👀 Interests: I'm keen on software testing methodologies, test automation, and continuous learning.
+
 🌱 Learning: I'm currently dedicated to test automation, using Selenium for GUI testing, and focusing on expanding my API testing knowledge with Postman.
+
 💞️ Collaboration: Open to open-source testing projects. Let's work together for high-quality software.
+
 📫 Contact Me: You can reach me via email at zzdimitrievski@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/zoran-dimitrievski/).
 
 #### 💪 Skills
