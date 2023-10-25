@@ -18,7 +18,8 @@
 - Agile Methodologies
 - Test Planning and Execution
 - Test Case Creation and Documentation
-- API Testing (Postman)
+- QA Automation (Selenium, Java) Knowledge
+- API Testing (Postman) Knowledge
 - SQL and Database Knowledge
 - Defect Reporting and Tracking
 - Bug Tracking Systems (Jira/Azure DevOps)
