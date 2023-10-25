@@ -2,6 +2,7 @@
 
 👨‍💻 Experience and Expertise
 - Manual testing
+- Automation testing (Selenium, Java)
 - Test case creation & execution & defect reporting
 - Cross-functional collaboration
 - Analytical troubleshooting
@@ -18,7 +19,6 @@
 - Agile Methodologies
 - Test Planning and Execution
 - Test Case Creation and Documentation
-- QA Automation (Selenium, Java) Knowledge
 - API Testing (Postman) Knowledge
 - SQL and Database Knowledge
 - Defect Reporting and Tracking
