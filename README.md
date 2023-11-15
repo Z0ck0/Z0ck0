@@ -44,10 +44,10 @@
 - Completed Software Testing Academy at Seavus Education and Development Center
 
 ---
-
+#### 🤝 Let's connect and build something amazing together!
 | 💞️ Open to                                                  | 📫 How to reach me                                      |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
 | Open-source testing projects                                 | Email: [zzdimitrievski@gmail.com](mailto:zzdimitrievski@gmail.com) |
 | Collaboration on high - quality software  _                      | LinkedIn: [Connect with me](https://www.linkedin.com/in/zoran-dimitrievski/) |
 
-#### 🤝 Let's connect and build something amazing together!
+
