@@ -33,7 +33,6 @@
 - Defect Reporting and Tracking
 - Bug Tracking Systems (Jira/Azure DevOps)
 - Test Management Tools (Jira/TestRail/Kiwi)
-- Continuous Learning and Adaptability
 
 ---
 
