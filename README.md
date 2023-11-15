@@ -1,30 +1,30 @@
-# 👋 Hi, I'm Zoran Dimitrievski
+## 👋 Hi, I'm Zoran Dimitrievski
 
-## 👨‍💻 Experience and Expertise
+### 👨‍💻 Experience and Expertise
 - Manual testing
 - Automation testing (Selenium, Java, TestNG)
 - Test case creation & execution & defect reporting
 - Cross-functional collaboration
 - Analytical troubleshooting
 
-## 👀 I'm keen on
+### 👀 I'm keen on
 - Software testing methodologies
 - Test automation
 - Continuous learning
 
-## 🌱 Currently
+### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
 - Expanding API testing knowledge with Postman
 
-## 💞️ Open to
+### 💞️ Open to
 - Open-source testing projects
 - Collaboration on high-quality software
 
-## 📫 How to reach me
+### 📫 How to reach me
 - Email: [zzdimitrievski@gmail.com](mailto:zzdimitrievski@gmail.com)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/zoran-dimitrievski/)
 
-## 💪 Skills
+### 💪 Skills
 - Agile Methodologies
 - Test Planning and Execution
 - Test Case Creation and Documentation
@@ -37,7 +37,7 @@
 
 ---
 
-### 🚀 Technical Proficiency
+#### 🚀 Technical Proficiency
 - **Programming Languages:** Java
 - **Testing Frameworks:** TestNG
 - **Automation Tools:** Selenium, Postman
@@ -48,10 +48,10 @@
 
 ---
 
-### 🌟 Acknowledgments
+#### 🌟 Acknowledgments
 - Certified in Software Testing - ISTQB Foundation Level
 - Completed Software Testing Academy at Seavus Education and Development Center
 
 ---
 
-### 🤝 Let's connect and build something amazing together!
+#### 🤝 Let's connect and build something amazing together!
