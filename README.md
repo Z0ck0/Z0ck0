@@ -2,7 +2,7 @@
 
 👨‍💻 Experience and Expertise
 - Manual testing
-- Automation testing (Selenium, Java)
+- Automation testing (Selenium, Java, TestNG)
 - Test case creation & execution & defect reporting
 - Cross-functional collaboration
 - Analytical troubleshooting
