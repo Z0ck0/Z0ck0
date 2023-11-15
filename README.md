@@ -43,7 +43,6 @@
 - **Version Control:** Git
 - **Collaboration Platforms:** Jira, Azure DevOps
 - **Test Management:** TestRail, Kiwi
-- **Continuous Learning Advocate**
 
 ---
 
