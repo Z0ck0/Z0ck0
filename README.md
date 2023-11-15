@@ -16,25 +16,13 @@
 - Dedicated to test automation using Java with Selenium for GUI testing
 - Expanding API testing knowledge with Postman
 
-#### 💞️ Open to
-- Open-source testing projects
-- Collaboration on high-quality software
-
-#### 📫 How to reach me
-- Email: [zzdimitrievski@gmail.com](mailto:zzdimitrievski@gmail.com)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/zoran-dimitrievski/)
-
-#### 💪 Skills
-- Agile Methodologies
-- Test Planning and Execution
-- Test Case Creation and Documentation
-- API Testing (Postman) Knowledge
-- SQL and Database Knowledge
-- Defect Reporting and Tracking
-- Bug Tracking Systems (Jira/Azure DevOps)
-- Test Management Tools (Jira/TestRail/Kiwi)
-
 ---
+
+| 💞️ Open to                                                  | 📫 How to reach me                                      |
+| ------------------------------------------------------------ | -------------------------------------------------------- |
+| Open-source testing projects                                 | Email: [zzdimitrievski@gmail.com](mailto:zzdimitrievski@gmail.com) |
+| Collaboration on high - quality software  _                      | LinkedIn: [Connect with me](https://www.linkedin.com/in/zoran-dimitrievski/) |
+
 
 #### 🚀 Technical Proficiency
 - **Programming Languages:** Java
@@ -43,6 +31,16 @@
 - **Version Control:** Git
 - **Collaboration Platforms:** Jira, Azure DevOps
 - **Test Management:** TestRail, Kiwi
+
+
+
+
+| 💪 Skills                                                         |                |                                      |
+| ------------------------------------------------------------------ | -------------- | ------------------------------------ |
+| Agile Methodologies                                               | Test Planning | Test Case Creation and Documentation |
+| API Testing (Postman) Knowledge                                   | SQL and Database Knowledge           | Defect Reporting and Tracking         |
+| Bug Tracking Systems (Jira/Azure DevOps)                          | Test Management Tools (Jira/TestRail/Kiwi) |                                      |
+
 
 ---
 
