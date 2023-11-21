@@ -7,10 +7,6 @@
 - Cross-functional collaboration
 - Analytical troubleshooting
 
-#### 👀 I'm keen on
-- Software testing methodologies
-- Test automation
-- Continuous learning
 
 #### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
@@ -45,9 +41,9 @@
 
 ---
 #### 🤝 Let's connect and build something amazing together!
-| 💞️ Open to                                                  | 📫 How to reach me                                      |
-| ------------------------------------------------------------ | -------------------------------------------------------- |
-| Open-source testing projects                                 | Email: [zzdimitrievski@gmail.com](mailto:zzdimitrievski@gmail.com) |
-| Collaboration on high - quality software  _                      | LinkedIn: [Connect with me](https://www.linkedin.com/in/zoran-dimitrievski/) |
-
+| 💞️ Open to                                                         |    👀 I'm keen on             |        📫 How to reach me                                |
+| ------------------------------------------------------------------ | -------------- | ------------------------------------ |
+| Open-source testing projects                                               | Software testing methodologies | Email: [zzdimitrievski@gmail.com](mailto:zzdimitrievski@gmail.com)
+| Collaboration on high - quality software                                         | Test automation                | LinkedIn: [Connect with me](https://www.linkedin.com/in/zoran-dimitrievski/)             |
+                                                        
 
