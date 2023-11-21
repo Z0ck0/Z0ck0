@@ -14,7 +14,6 @@
 
 ---
 
-
 #### 🚀 Technical Proficiency
 - **Programming Languages:** Java
 - **Testing Frameworks:** TestNG
@@ -26,11 +25,11 @@
 
 
 
-| 💪 Skills                                                         |                |                                      |
-| ------------------------------------------------------------------ | -------------- | ------------------------------------ |
-| Agile Methodologies                                               | Test Planning | Test Case Creation and Documentation |
-| API Testing (Postman) Knowledge                                   | SQL and Database Knowledge           | Defect Reporting and Tracking         |
-| Bug Tracking Systems (Jira/Azure DevOps)                          | Test Management Tools (Jira/TestRail/Kiwi) |                                      |
+| 💪 Skills                             |        |                   |
+|---|---|---|
+| Agile Methodologies                        | Test Planning | Test Case Creation and Documentation |
+| API Testing (Postman) Knowledge                  | SQL and Database Knowledge      | Defect Reporting and Tracking     |
+| Bug Tracking Systems (Jira/Azure DevOps)             | Test Management Tools (Jira/TestRail/Kiwi) |                   |
 
 
 ---
@@ -41,9 +40,8 @@
 
 ---
 #### 🤝 Let's connect and build something amazing together!
-| 💞️ Open to                                                         |    👀 I'm keen on             |        📫 How to reach me                                |
-| ------------------------------------------------------------------ | -------------- | ------------------------------------ |
-| Open-source testing projects                                               | Software testing methodologies | Email: [zzdimitrievski@gmail.com](mailto:zzdimitrievski@gmail.com)
-| Collaboration on high - quality software                                         | Test automation                | LinkedIn: [Connect with me](https://www.linkedin.com/in/zoran-dimitrievski/)             |
-                                                        
+| 💞️ Open to                             |  👀 I'm keen on       |    📫 How to reach me                |
+|-------|--------|--------|    
+| Open-source testing projects                        | Software testing methodologies | Email: [zzdimitrievski@gmail.com](mailto:zzdimitrievski@gmail.com)
+| Collaboration on high - quality software                     | Test automation        | LinkedIn: [Connect with me](https://www.linkedin.com/in/zoran-dimitrievski/)       |
 
