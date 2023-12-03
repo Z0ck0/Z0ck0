@@ -35,10 +35,7 @@
 ---
 
 #### 🌟 Acknowledgments
-- Certified in Software Testing - ISTQB Foundation Level
-- ISTQB® Certified [link to certificate]([https://www.example.com/certificate](https://www.linkedin.com/in/zoran-dimitrievski/overlay/1635551525978/single-media-viewer/?type=DOCUMENT&profileId=ACoAAAjMw0YBSPXFwHTwCWwWb-FJEMGwBPu12vM))
-- [ISTQB® Certified](https://www.linkedin.com/in/zoran-dimitrievski/overlay/1635551525978/single-media-viewer/?type=DOCUMENT&profileId=ACoAAAjMw0YBSPXFwHTwCWwWb-FJEMGwBPu12vM)
-- [ISTQB® Certified](https://rb.gy/qs63au) 
+- Certified in Software Testing - [ISTQB® Foundation Level](https://rb.gy/qs63au) 
 - Completed Software Testing Academy at Seavus Education and Development Center
 
 ---
