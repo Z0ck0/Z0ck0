@@ -36,7 +36,8 @@
 
 #### 🌟 Acknowledgments
 - Certified in Software Testing - [ISTQB® Foundation Level](https://rb.gy/qs63au)
-- Certified in Software Testing - [ISTQB® Foundation Level](https://rb.gy/qs63au){:target="_blank"}
+- Certified in Software Testing - [ISTQB® Foundation Level](https://rb.gy/qs63au){:rel="noopener"}
+
 
 - Completed Software Testing Academy at Seavus Education and Development Center
 
