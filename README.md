@@ -71,22 +71,37 @@
 - Certified in Software Testing - [ISTQB® Foundation Level](https://rb.gy/qs63au)
 - Completed Software Testing Academy at Seavus Education and Development Center
 
----
-#### 🤝 Let's connect and build something amazing together!
-| 💞️ Open to                             |  👀 I'm keen on       |    📫 How to reach me                |
-|-------|--------|--------|    
-| Open-source testing projects                        | Software testing methodologies | Email: [zzdimitrievski@gmail.com](mailto:zzdimitrievski@gmail.com)
-| Collaboration on high - quality software                     | Test automation        | LinkedIn: [Connect with me](https://www.linkedin.com/in/zoran-dimitrievski/)       |
 
 <div align="center">
-  <h2>🤝 Let's connect and build something amazing together!</h2>
+  <h3>🤝 Let's connect and build something amazing together!</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" (https://www.linkedin.com/in/zoran-dimitrievski/) >
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twiter Icon">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow Icon">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon">
   </a> 
 </div>
+
+<div align="center">
+  <h3>🤝 Let's connect and build something amazing together!</h3>
+  <a href="https://www.linkedin.com/in/zoran-dimitrievski/" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon">
+  </a>
+  <a href="https://twitter.com/Z0ck0" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Icon">
+  </a>
+  <a href="mailto:zzdimitrievski@gmail.com" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon">
+  </a>
+  <a href="https://stackoverflow.com/users/21779746/zoran-dimitrievski" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow Icon">
+  </a>
+  <a href="https://discord.com/channels/@me" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon">
+  </a>
+</div>
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Z0ck0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Z0ck0?tab=followers)
