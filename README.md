@@ -11,9 +11,15 @@
 [![GitHub followers](https://img.shields.io/github/followers/Z0ck0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Z0ck0?tab=followers)
 
 ## 💻 My Tech Stack:
-<div align="center"> ### 💻 My Tech Stack:
+<div align="center"> 
 
 [![My Skills](https://skillicons.dev/icons?i=java,selenium,postman)](https://skillicons.dev) </div>
+
+## 💻 My Tech Stack:
+<div align="center"> 
+
+[![My Skills](https://skillicons.dev/icons?i=java,selenium,postman)](https://skillicons.dev) </div>
+
 
 #### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
