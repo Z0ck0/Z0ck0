@@ -13,16 +13,22 @@
 
 
 <div align="center">
-  <h2>💻 My Tech Stack:</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java Icon">
-    <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium Icon">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">
-  </a>
+
+  <div>
+    <h2>💻 My Tech Stack:</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java Icon" style="margin-right: 10px;">
+      <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium Icon" style="margin-right: 10px;">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">
+    </a>
+  </div>
+
+  <!-- Add space between icons and quotes -->
+  <div style="margin-top: 20px;"></div>
+
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ---
