@@ -10,7 +10,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.linkedin.com/in/zoran-dimitrievski/) 
 [![GitHub followers](https://img.shields.io/github/followers/Z0ck0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Z0ck0?tab=followers)
 
-
+<div align="center">
   <div>
   <h2>💻 My Tech Stack:</h2>
   <a href="https://skillicons.dev" style="display: inline-block; margin-right: 10px;">
