@@ -21,6 +21,7 @@
       <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium Icon" style="margin-right: 10px;">
       <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon">  
+      <img src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9c/20200803071015%21IntelliJ_IDEA_Icon.svg">
     </a>
   </div>
 
