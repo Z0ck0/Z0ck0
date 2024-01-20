@@ -15,10 +15,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,selenium,postman)](https://skillicons.dev) </div>
 
-## 💻 My Tech Stack:
-<div align="center"> 
 
-[![My Skills](https://skillicons.dev/icons?i=java,selenium,postman)](https://skillicons.dev) </div>
+<div align="center">
+  <h2>💻 My Tech Stack:</h2>
+  [![My Skills](https://skillicons.dev/icons?i=java,selenium,postman)](https://skillicons.dev)
+</div>
+
 
 
 #### 🌱 Currently
