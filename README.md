@@ -8,7 +8,7 @@
 - Analytical troubleshooting
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](zzdimitrievski@gmail.com)
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 
 #### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
