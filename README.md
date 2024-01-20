@@ -12,7 +12,7 @@
 
 ## 💻 My Tech Stack:
 <div align="center"> 
-
+💻 My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,selenium,postman)](https://skillicons.dev) </div>
 
 
