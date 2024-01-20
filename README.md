@@ -7,6 +7,7 @@
 - Cross-functional collaboration
 - Analytical troubleshooting
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 #### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
