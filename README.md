@@ -40,16 +40,6 @@
 </div>
 
 
-<div align="center"
-  >
-  <img src="https://m.media-amazon.com/images/I/41NfhepvGVL._AC_UF894,1000_QL80_.jpg" alt="Custom Quote Image" width="400">
-</div>
-
-
-
-
-
-
 #### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
 - Expanding API testing knowledge with Postman
