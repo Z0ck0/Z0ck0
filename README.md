@@ -25,6 +25,7 @@
 
   &nbsp;&nbsp;&nbsp;
  <h2>💡 A Quote:</h2>
+ 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
   
