@@ -25,7 +25,7 @@
 
   &nbsp;&nbsp;&nbsp;
 
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&?quote="Success consists of going from failure to failure without loss of enthusiasm." - Winston Churchill)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
