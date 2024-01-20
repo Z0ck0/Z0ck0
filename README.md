@@ -13,6 +13,14 @@
  <h2><div align="center">💻 My Tech Stack: </div> </h2>
 <div align="center"> [![My Skills](https://skillicons.dev/icons?i=java,selenium,postman)](https://skillicons.dev) </div>
 
+<div align="center">
+  <h2>💻 My Tech Stack:</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java Icon">
+    <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium Icon">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">
+  </a>
+</div>
 
 
 
