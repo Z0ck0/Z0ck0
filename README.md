@@ -7,7 +7,7 @@
 - Cross-functional collaboration
 - Analytical troubleshooting
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.linkedin.com/in/zoran-dimitrievski/)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.linkedin.com/in/zoran-dimitrievski/) nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Z0ck0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Z0ck0?tab=followers)
 
 <div align="center"> <h2>💻 My Tech Stack:</h2> </div>
