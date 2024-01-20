@@ -41,7 +41,7 @@
 
 
 <div>
-  <img src="https://www.coolnsmart.com/img/43/success-is-the-ability-to-go-105726-2.png" alt="Custom Quote Image">
+  <img src="https://m.media-amazon.com/images/I/41NfhepvGVL._AC_UF894,1000_QL80_.jpg" alt="Custom Quote Image">
 </div>
 
 
