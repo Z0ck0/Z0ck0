@@ -8,6 +8,7 @@
 - Analytical troubleshooting
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](zzdimitrievski@gmail.com)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 #### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
