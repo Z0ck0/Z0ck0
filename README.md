@@ -41,7 +41,7 @@
 
 
 <div style="background-color: yellow; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="https://www.coolnsmart.com/img/43/success-is-the-ability-to-go-105726-2.png" alt="Custom Quote Image" style="max-width: 50%; margin-bottom: 15px;">
+  <img src="https://www.coolnsmart.com/img/43/success-is-the-ability-to-go-105726-2.png" alt="Custom Quote Image" style="max-width: 20%; margin-bottom: 15px;">
 </div>
 
 
