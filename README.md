@@ -21,9 +21,9 @@
   </a>
 </div>
 
-
+<div align="center">
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
+</div>
 
 #### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
