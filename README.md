@@ -24,7 +24,7 @@
   </div>
 
   <!-- Add space between icons and quotes -->
-  <div style="margin-top: 20px;"></div>
+  <div style="margin-top: 60px;"></div>
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
