@@ -20,6 +20,8 @@
       <img src="https://skillicons.dev/icons?i=java" alt="Java Icon" style="margin-right: 10px;">
       <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium Icon" style="margin-right: 10px;">
       <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon">
+      
     </a>
   </div>
 
