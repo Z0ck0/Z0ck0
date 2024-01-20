@@ -12,8 +12,7 @@
 
 <h2>💻 My Tech Stack:</h2>
 <div align="center"> 
-[![My Skills](https://skillicons.dev/icons?i=java,selenium,postman)](https://skillicons.dev) 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,selenium,postman)](https://skillicons.dev) </div>
 
 
 
