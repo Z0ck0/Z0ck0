@@ -35,6 +35,9 @@
  <h2>💡 A Quote:</h2> 
  
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
+  [![“Success is the ability to go from failure to failure without losing your enthusiasm” ― Winston Churchill](https://your-image-url.jpg)](https://github.com/your-username/your-repository)
+
 </div>
 
 [![“Success is the ability to go from failure to failure without losing your enthusiasm” ― Winston Churchill](https://your-image-url.jpg)](https://github.com/your-username/your-repository)
