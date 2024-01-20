@@ -18,9 +18,6 @@
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" width="50" height="50"></a>&nbsp;&nbsp;
     <a href="https://upload.wikimedia.org/wikipedia/commons/archive/9/9c/20200803071015%21IntelliJ_IDEA_Icon.svg"><img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-1024x1014-qi27z6hu.png" alt="IntelliJ IDEA Icon" width="50" height="50"></a>
   </div>
-</div>
-
-
 
   &nbsp;&nbsp;&nbsp;
   
