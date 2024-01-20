@@ -11,21 +11,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Z0ck0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Z0ck0?tab=followers)
 
 
-
-<div align="center">
-
-  <div>
-    <h2>💻 My Tech Stack:</h2>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java Icon" style="margin-right: 10px;">
-      <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium Icon" style="margin-right: 10px;">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon">  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9c/20200803071015%21IntelliJ_IDEA_Icon.svg">
-    </a>
-  </div>
-
-
   <div>
   <h2>💻 My Tech Stack:</h2>
   <a href="https://skillicons.dev" style="display: inline-block; margin-right: 10px;">
