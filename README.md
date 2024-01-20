@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" width="50" height="50">
   </a>
   <a href="https://upload.wikimedia.org/wikipedia/commons/archive/9/9c/20200803071015%21IntelliJ_IDEA_Icon.svg" style="display: inline-block; margin-right: 10px;">
-    <img src="https://w7.pngwing.com/pngs/747/41/png-transparent-intellij-macos-bigsur-icon-thumbnail.png" alt="IntelliJ IDEA Icon" width="60" height="60">
+    <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-1024x1014-qi27z6hu.png" alt="IntelliJ IDEA Icon" width="50" height="50">
   </a>
 </div>
 
