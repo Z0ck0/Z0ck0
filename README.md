@@ -23,8 +23,8 @@
     </a>
   </div>
 
-  <!-- Add space between icons and quotes -->
-  <div style="margin-top: 60px;"></div>
+
+  <!-- Empty line for spacing -->
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
