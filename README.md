@@ -41,7 +41,7 @@
 
 
 <div>
-  <img src="https://m.media-amazon.com/images/I/41NfhepvGVL._AC_UF894,1000_QL80_.jpg" alt="Custom Quote Image">
+  <img src="https://m.media-amazon.com/images/I/41NfhepvGVL._AC_UF894,1000_QL80_.jpg" alt="Custom Quote Image" width="200">
 </div>
 
 
