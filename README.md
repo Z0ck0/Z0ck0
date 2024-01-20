@@ -30,24 +30,6 @@
 </div>
 
 
----
-
-<div align="center">
-
-  <div>
-    <h2>💻 My Tech Stack:</h2>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java Icon">
-      <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium Icon">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">
-    </a>
-  </div>
-
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-
 #### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
 - Expanding API testing knowledge with Postman
