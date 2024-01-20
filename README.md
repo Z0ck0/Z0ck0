@@ -85,19 +85,19 @@
 
 <div align="center">
   <h3>🤝 Let's connect and build something amazing together!</h3>
-  <a href="https://www.linkedin.com/in/zoran-dimitrievski/" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/zoran-dimitrievski/" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon">
   </a>
-  <a href="https://twitter.com/Z0ck0" style="margin-right: 10px;">
+  <a href="https://twitter.com/Z0ck0" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Icon">
   </a>
-  <a href="mailto:zzdimitrievski@gmail.com" style="margin-right: 10px;">
+  <a href="mailto:zzdimitrievski@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon">
   </a>
-  <a href="https://stackoverflow.com/users/21779746/zoran-dimitrievski" style="margin-right: 10px;">
+  <a href="https://stackoverflow.com/users/21779746/zoran-dimitrievski" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow Icon">
   </a>
-  <a href="https://discord.com/channels/@me" style="margin-right: 10px;">
+  <a href="https://discord.com/channels/@me" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon">
   </a>
 </div>
