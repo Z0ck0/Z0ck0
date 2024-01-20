@@ -39,10 +39,14 @@
 
 </div>
 
+
 <div style="background-color: yellow; padding: 20px; border-radius: 10px; text-align: center;">
-  
+  <img src="https://www.coolnsmart.com/img/43/success-is-the-ability-to-go-105726-2.png" alt="Custom Quote Image" style="max-width: 100%; margin-bottom: 15px;">
   <p style="color: black; font-size: 16px; margin: 0;">“Success is the ability to go from failure to failure without losing your enthusiasm”<br>― Winston Churchill</p>
 </div>
+
+
+
 
 
 
