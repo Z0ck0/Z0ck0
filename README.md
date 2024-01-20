@@ -63,8 +63,9 @@
 <div align="center">
   <h2>🤝 Let's connect and build something amazing together!</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Linkedin" alt="LinkedIn Icon">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Selenium Icon">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Postman Icon">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twiter Icon">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon">
   </a>
 </div>
