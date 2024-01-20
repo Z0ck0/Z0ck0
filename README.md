@@ -20,9 +20,9 @@
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">
   </a>
 </div>
-
+---
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+---
 #### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
 - Expanding API testing knowledge with Postman
