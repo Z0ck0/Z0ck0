@@ -60,3 +60,11 @@
 | Open-source testing projects                        | Software testing methodologies | Email: [zzdimitrievski@gmail.com](mailto:zzdimitrievski@gmail.com)
 | Collaboration on high - quality software                     | Test automation        | LinkedIn: [Connect with me](https://www.linkedin.com/in/zoran-dimitrievski/)       |
 
+<div align="center">
+  <h2>🤝 Let's connect and build something amazing together!</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Linkedin" alt="LinkedIn Icon">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Selenium Icon">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Postman Icon">
+  </a>
+</div>
