@@ -25,6 +25,27 @@
     </a>
   </div>
 
+
+  <div>
+  <h2>💻 My Tech Stack:</h2>
+  <a href="https://skillicons.dev" style="display: inline-block; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java Icon" width="50" height="50">
+  </a>
+  <a href="https://skillicons.dev" style="display: inline-block; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium Icon" width="50" height="50">
+  </a>
+  <a href="https://skillicons.dev" style="display: inline-block; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" width="50" height="50">
+  </a>
+  <a href="https://skillicons.dev" style="display: inline-block; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" width="50" height="50">
+  </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/archive/9/9c/20200803071015%21IntelliJ_IDEA_Icon.svg" style="display: inline-block; margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9c/20200803071015%21IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA Icon" width="50" height="50">
+  </a>
+</div>
+
+
   &nbsp;&nbsp;&nbsp;
  <h2>💡 A Quote:</h2>
  
