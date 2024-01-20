@@ -12,7 +12,7 @@
 
 <div align="center"> 💻 My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,selenium,html,postman,testng)](https://skillicons.dev) </div>
+[![My Skills](https://skillicons.dev/icons?i=java,selenium,html,postman,intellij)](https://skillicons.dev) </div>
 
 #### 🌱 Currently
 - Dedicated to test automation using Java with Selenium for GUI testing
