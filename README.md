@@ -36,11 +36,14 @@
  
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
-  [![“Success is the ability to go from failure to failure without losing your enthusiasm” ― Winston Churchill](https://your-image-url.jpg)](https://github.com/your-username/your-repository)
 
 </div>
 
-[![“Success is the ability to go from failure to failure without losing your enthusiasm” ― Winston Churchill](https://your-image-url.jpg)](https://github.com/your-username/your-repository)
+<div style="background-color: yellow; padding: 20px; border-radius: 10px; text-align: center;">
+  <img src="https://i.etsystatic.com/7388389/r/il/09f150/1904765266/il_794xN.1904765266_bsra.jpg" alt="Custom Quote Image" style="max-width: 100%; margin-bottom: 15px;">
+  <p style="color: black; font-size: 16px; margin: 0;">“Success is the ability to go from failure to failure without losing your enthusiasm”<br>― Winston Churchill</p>
+</div>
+
 
 
 #### 🌱 Currently
