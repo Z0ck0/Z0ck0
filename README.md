@@ -74,17 +74,6 @@
 
 <div align="center">
   <h3>🤝 Let's connect and build something amazing together!</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twiter Icon">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow Icon">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon">
-  </a> 
-</div>
-
-<div align="center">
-  <h3>🤝 Let's connect and build something amazing together!</h3>
   <a href="https://www.linkedin.com/in/zoran-dimitrievski/" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon">
   </a>
@@ -97,7 +86,7 @@
   <a href="https://stackoverflow.com/users/21779746/zoran-dimitrievski" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow Icon">
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank" style="margin-right: 10px;">
+  <a href="https://discord.com/channels/@z0ck0_" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon">
   </a>
 </div>
