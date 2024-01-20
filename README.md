@@ -83,6 +83,14 @@
   </a>
 </div>
 
+<div align="center">
+  <h3>🤝 Let's connect and build something amazing together!</h3>
+  <a href="https://www.linkedin.com/in/zoran-dimitrievski/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" width="50" height="50"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Z0ck0" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Icon" width="50" height="50"></a>&nbsp;&nbsp;
+  <a href="mailto:zzdimitrievski@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" width="50" height="50"></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/21779746/zoran-dimitrievski" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow Icon" width="50" height="50"></a>&nbsp;&nbsp;
+  <a href="https://discord.com/channels/@z0ck0_" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon" width="50" height="50"></a>
+</div>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Z0ck0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Z0ck0?tab=followers)
